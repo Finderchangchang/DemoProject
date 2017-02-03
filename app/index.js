@@ -55,7 +55,6 @@ const yss = StyleSheet.create({
   container: {
     flex: 1,
     flexDirection: 'column',
-    marginTop:56,
     backgroundColor: '#F5FCFF'
   },
   welcome: {
